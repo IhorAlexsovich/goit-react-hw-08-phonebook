@@ -18,27 +18,10 @@ export const HomeWrapper = styled.section`
 export const Section = styled.section`
   margin: 30px auto;
 `;
-export const Header1 = styled.h2`
+export const Header = styled.h2`
   margin: 20px auto;
   text-align: center;
 `;
 
-export const Header2 = styled.h2`
-  margin: 20px auto;
-  text-align: center;
-`;
 
-export const Suggest = styled.p`
-  margin: 20px auto;
-  text-align: center;
-  color: #2c8fc9;
-`;
 
-export const ListEl = styled.ul`
-  &:not(:last-child) {
-    margin-bottom: 10px;
-  }
-`;
-export const List = styled.ul`
-  margin-bottom: 30px;
-`;
