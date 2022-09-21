@@ -7,7 +7,7 @@ export const HomeWrapper = styled.section`
   display: block;
   margin: 25px auto;
   border-radius: 8px;
-  box-shadow: 20px 27px 67px 25px rgba(0, 0, 0, 0.57);
+  box-shadow: 20px 27px 67px 25px rgba(0, 0, 0, 0.3);
   padding: 30px;
   &:not(:last-child) {
     margin-bottom: 20px;
