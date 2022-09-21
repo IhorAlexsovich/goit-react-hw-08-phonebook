@@ -1,10 +1,5 @@
 import styled from 'styled-components';
-export const Img = styled.img`
-  width: 100%;
-  height: 500px;
-  object-fit: cover;
-  object-position: 87% 50%;
-  border-radius: 20px;`
+
 export const HomeWrapper = styled.section`
   /* background-image: url('./images/pb.png'); */
   width: 800px;
